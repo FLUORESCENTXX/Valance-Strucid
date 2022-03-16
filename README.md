@@ -1,4 +1,13 @@
+
+![Strucidd](https://user-images.githubusercontent.com/95067718/158530786-0d44e398-c4fe-4ebd-8708-c462eccb7e26.png)
+
+(Banner)
+
+
+
 ![Strucid](https://user-images.githubusercontent.com/95067718/158526417-7619a10d-d6d7-4936-b447-f8d039b098d6.png)
+
+
 
 **Valance Strucid - a ahk based aimbot for the game strucid on roblox and requires no viruses :)**
 
