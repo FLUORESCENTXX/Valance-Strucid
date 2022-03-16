@@ -8,7 +8,7 @@ Requires no viruses and only to install AHK from the website. This was also made
 
 
 
-## HowToUse
+# HowToUse
 
 So first off make sure that you have installed AHK (most likely latest version)
 https://www.autohotkey.com
@@ -19,3 +19,14 @@ from the official website and make sure to install all of the components. Then d
 
 
 ![image](https://user-images.githubusercontent.com/95067718/158527764-60a7f59e-6c1e-4d94-9a99-84a0e4bfb3f7.png)
+Then from there make sure to run with AHK and not anything else! Once you've done that it should start working!
+
+
+# Download
+
+http://destyy.com/eaVRrj
+
+Download from there
+(Go to site close any ads or popups DONT Downlaod anything then clip skip then it sends you to mediafire!)
+
+Please also make sure to read the repo before asking me a billion questions on why it doesnt even work
