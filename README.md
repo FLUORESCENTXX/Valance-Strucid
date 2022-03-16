@@ -7,7 +7,7 @@ Valance-Strucid is a ahk based aimbot for strucid
 Requires no viruses and only to install AHK from the website. This was also made using the hex rgb pixels which is the pixels in the game of a player added into the script which aims directly at the players head lol
 
 
-![image](https://user-images.githubusercontent.com/95067718/158527298-29bad55f-9b0f-4472-baea-dc26b06d8f80.png)
+
 ## HowToUse
 
 So first off make sure that you have installed AHK (most likely latest version)
