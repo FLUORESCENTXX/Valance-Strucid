@@ -12,6 +12,9 @@ Requires no viruses and only to install AHK from the website. This was also made
 
 So first off make sure that you have installed AHK (most likely latest version)
 https://www.autohotkey.com
+
+![image](https://user-images.githubusercontent.com/95067718/158527991-91cde2f2-45f8-41b4-880e-786a41925534.png)
+
 from the official website and make sure to install all of the components. Then download the file below and make sure to run it with autohot key as show nhere
 
 
