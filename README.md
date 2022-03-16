@@ -7,7 +7,8 @@
 
 
 
-# Valance Strucid - a ahk based aimbot for the game strucid on roblox and requires no viruses :)**
+
+# Valance Strucid - a ahk based aimbot for the game strucid on roblox and requires no viruses :)
 
 # About
 Valance-Strucid is a ahk based aimbot for strucid
