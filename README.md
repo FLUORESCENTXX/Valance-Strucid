@@ -3,7 +3,7 @@
 
 (Banner)
 
-https://gyazo.com/7a242e6a5d3d2e232e0add338df69e29
+https://i.gyazo.com/7a242e6a5d3d2e232e0add338df69e29.mp4
 
 
 
